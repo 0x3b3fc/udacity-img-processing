@@ -173,7 +173,7 @@ var file = /** @class */ (function () {
         });
     };
     // Default paths
-    file.imgFullPath = path_1.default.resolve(__dirname, './../../images/path');
+    file.imgFullPath = path_1.default.resolve(__dirname, './../../images');
     file.imgThumbPath = path_1.default.resolve(__dirname, './../../images/thumb');
     return file;
 }());

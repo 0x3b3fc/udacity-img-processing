@@ -54,7 +54,7 @@ app.listen(PORT, function () { return __awaiter(void 0, void 0, void 0, function
             case 0: return [4 /*yield*/, file_1.default.create_thumb_path()];
             case 1:
                 _a.sent();
-                console.log('server runs on: localhost:5000');
+                console.log('server runs on: http://localhost:5000');
                 return [2 /*return*/];
         }
     });
